@@ -83,5 +83,5 @@ def entropy(dataset):
         
         return -1 * proportion * np.log2(proportion) 
 
-    return np.sum(map(entropy_val, label_proportions))
+    return np.sum(list(map(entropy_val, label_proportions)))
 

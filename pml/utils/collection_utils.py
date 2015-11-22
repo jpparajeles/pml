@@ -42,7 +42,7 @@ def get_key_with_highest_value(dictionary):
     if len(dictionary) == 0:
         return None
     
-    return max(dictionary.iteritems(), key=operator.itemgetter(1))[0]
+    return max(dictionary.items(), key=operator.itemgetter(1))[0]
 
 def are_all_equal(iterable):
     """

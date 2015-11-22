@@ -1,0 +1,31 @@
+kid,Tipo de camisa,Manga,Quiere usar corbata,Es cajero::contador::...,Material de la corbata,Chaqueta de Teed,Corbata muy larga,Tipo Cuello/Camisa,Usa chaleco,Tipo de ambiente,Diseño de la corbata,Opción intermedia,Aun muy larga,Grosor del cuello,Grosor de la corbata,Ancho de la corbata,Resultado
+k00,T-shirt,Corta,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 1
+k01,Polo,Corta,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 1
+k02,Ninguna,Ninguna,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 1
+k03,T-shirt,Corta,No,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 2
+k04,Polo,Corta,No,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 2
+k05,Ninguna,Ninguna,No,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 2
+k06,Formal,Corta,Si,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 3
+k07,Formal,Corta,Si,No,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 4
+k08,Formal,Larga,Si,No,Lana,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 5
+k09,Formal,Larga,Si,No,Punto,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 5
+k10,Formal,Larga,Si,No,Lana,No,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 6
+k11,Formal,Larga,Si,No,Punto,No,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Mensaje 6
+k12,Formal,Larga,Si,No,Sintético,No,Si,Inglés,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Van Wijk
+k13,Formal,Larga,Si,No,Sintético,No,Si,Italiano,Si,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Van Wijk
+k14,Formal,Larga,Si,No,Sintético,No,Si,Inglés,No,Formal,Indiferente,Prince Albert,Si,Indiferente,Indiferente,Indiferente,Mensaje 7
+k15,Formal,Larga,Si,No,Sintético,No,Si,Italiano,No,Formal,Indiferente,Windsor,Si,Indiferente,Indiferente,Indiferente,Mensaje 7
+k16,Formal,Larga,Si,No,Sintético,No,Si,Inglés,No,Formal,Indiferente,Prince Albert,No,Indiferente,Indiferente,Indiferente,Prince Albert
+k17,Formal,Larga,Si,No,Sintético,No,Si,Italiano,No,Formal,Indiferente,Windsor,No,Indiferente,Indiferente,Indiferente,Windsor
+k18,Formal,Larga,Si,No,Sintético,No,Si,Italiano,No,Casual,Estampada,Windsor,Si,Indiferente,Indiferente,Indiferente,Mensaje 7
+k19,Formal,Larga,Si,No,Sintético,No,Si,Italiano,No,Casual,Estampada,Windsor,No,Indiferente,Indiferente,Indiferente,Windsor
+k20,Formal,Larga,Si,No,Sintético,No,Si,Italiano,No,Casual,Lisa,Indiferente,Indiferente,Indiferente,Indiferente,Indiferente,Eldredge
+k21,Formal,Larga,Si,No,Sintético,No,No,Italiano,No,Formal,Cualquiera,Indiferente,Indiferente,Grueso,Delgada,Ancha,Prince Albert
+k22,Formal,Larga,Si,No,Sintético,No,No,Italiano,No,Formal,Cualquiera,Indiferente,Indiferente,Grueso,Delgada,Delgada,Windsor
+k23,Formal,Larga,Si,No,Sintético,No,No,Italiano,No,Formal,Cualquiera,Indiferente,Indiferente,Grueso,Gruesa,Indiferente,Prince Albert
+k24,Formal,Larga,Si,No,Sintético,No,No,Italiano,No,Formal,Cualquiera,Indiferente,Indiferente,Delgado,Delgada,Indiferente,Prince Albert
+k25,Formal,Larga,Si,No,Sintético,No,No,Italiano,No,Formal,Cualquiera,Indiferente,Indiferente,Delgado,Gruesa,Indiferente,Windsor
+k26,Formal,Larga,Si,No,Sintético,No,No,Inglés,No,Formal,Cualquiera,Indiferente,Indiferente,Grueso,Indiferente,Indiferente,Half Windsor
+k27,Formal,Larga,Si,No,Sintético,No,No,Inglés,No,Formal,Cualquiera,Indiferente,Indiferente,Delgado,Gruesa,Indiferente,Four in hand
+k28,Formal,Larga,Si,No,Sintético,No,No,Inglés,No,Formal,Cualquiera,Indiferente,Indiferente,Delgado,Delgada,Delgada,Four in hand
+k29,Formal,Larga,Si,No,Sintético,No,No,Inglés,No,Formal,Cualquiera,Indiferente,Indiferente,Delgado,Delgada,Ancha,Kent
