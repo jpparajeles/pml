@@ -1,0 +1,77 @@
+>Material de la corbata
+ Indiferente
+  >Es cajero::contador::...
+    Indiferente
+     >Quiere usar corbata
+       Si
+        Mensaje 1
+       No
+        Mensaje 2
+    Si
+     Mensaje 3
+    No
+     Mensaje 4
+ Lana
+  >Chaqueta de Teed
+    Si
+     Mensaje 5
+    No
+     Mensaje 6
+ Sintético
+  >Diseño de la corbata
+    Indiferente
+     >Aun muy larga
+       Indiferente
+        Van Wijk
+       Si
+        Mensaje 7
+       No
+        >Opción intermedia
+          Prince Albert
+           Prince Albert
+          Windsor
+           Windsor
+    Cualquiera
+     >Tipo Cuello/Camisa
+       Italiano
+        >Ancho de la corbata
+          Indiferente
+           >Grosor de la corbata
+             Delgada
+              Prince Albert
+             Gruesa
+              >Grosor del cuello
+                Grueso
+                 Prince Albert
+                Delgado
+                 Windsor
+          Ancha
+           Prince Albert
+          Delgada
+           Windsor
+       Inglés
+        >Grosor de la corbata
+          Indiferente
+           Half Windsor
+          Delgada
+           >Ancho de la corbata
+             Delgada
+              Four in hand
+             Ancha
+              Kent
+          Gruesa
+           Four in hand
+    Estampada
+     >Aun muy larga
+       Si
+        Mensaje 7
+       No
+        Windsor
+    Lisa
+     Eldredge
+ Punto
+  >Chaqueta de Teed
+    Si
+     Mensaje 5
+    No
+     Mensaje 6
